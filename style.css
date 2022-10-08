@@ -1,0 +1,16 @@
+/*클래스선택자*/
+.color-primary {
+    color:green;
+}
+.font-70{
+    font-size:70px;
+}
+.select-style{
+    height:50px;
+    font-size:40px;
+    color:blue
+}
+/*태그선택자*/
+h1{
+    background-color: aqua;
+}
